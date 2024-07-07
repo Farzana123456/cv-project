@@ -1,0 +1,114 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.container{
+   background-color: rgb(190, 236, 221);
+   max-width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+    padding-top: 30px;
+}
+.image{
+    width: 200px;
+    height: 250x;
+    border: 2px solid white;
+    border-radius: 50%;
+    float: left;
+ 
+}
+.cv-bio{
+   
+    margin-top: 50px;
+    padding: 45px;
+    float: left;
+    
+
+
+}
+.main{
+    margin: 30px;
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: brown;
+    text-align: center;
+}
+.cv-contact{
+    float: right;
+   
+    padding-top: 30px;
+   font-weight:bold ;
+    
+}
+.cv-contact :hover{
+    color: black;
+    text-decoration: underline;
+}
+.div-clear{
+    clear: both;
+}
+hr{
+    border: solid 2px;
+   color: black;
+   
+}
+.left-info{
+    width: 30%;
+    float: left;
+}
+.right-info{
+    width:70%;
+    float: left;
+    
+}
+
+   
+.blood-hub{
+    width: 45%;
+    float: left;
+}
+.medi-project{
+    
+    width: 55%;
+    float: right;
+}
+.common-hr{
+    border: solid black 0.5px;
+   
+}
+.cv-last{
+    background-color: black;
+    
+    text-align: center;
+    padding: 25px 25px 25px 25px;
+}
+.cv-last a{
+    color: aliceblue;
+    text-decoration: none;
+    padding: 10px;
+}
+.cv-last .last{
+    padding-top: 10px;
+color: beige;
+
+}
+
+.ssc{
+    width: 45%;
+    float: left;
+}
+.hsc{
+    
+    width: 55%;
+    float: right;
+}
+.bsc{
+    
+    width: 55%;
+    float: left;
+}
